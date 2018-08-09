@@ -18,12 +18,6 @@
     "JavaScript",
     "HTML"
   ],
-  "author": "Mircea Diaconescu",
-  "license": "CPOL-1.02",
-  "bugs": {
-    "url": "https://github.com/dimircea/WebRTC/issues"
-  },
-  "homepage": "https://github.com/dimircea/WebRTC#readme",
   "dependencies": {
     "express": "^4.14.0",
     "fs": "0.0.1-security",
